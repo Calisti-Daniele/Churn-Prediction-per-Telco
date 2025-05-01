@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+catboost
+joblib
+streamlit
+python-dotenv
+huggingface_hub
