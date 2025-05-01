@@ -29,8 +29,7 @@
 - **Notebook pulito** (`notebooks/`) con EDA, feature engineering, modelli e metriche.  
 - **Web app** (`app/`) che consente al reparto commerciale di caricare un file clienti e visualizzare:  
   - 🔮 *Churn probability*  
-  - 🗝️ *Top-3 drivers* per cliente  
-- **README bilingue** (questo!) con emoticon per una presentazione chiara e “friendly”.
+  - 🗝️ *Top-3 drivers* per cliente 
 
 ## 💡 Business Value
 - 🇮🇹 **Riduci il tasso di abbandono** → +ROI campagne retention, -costi acquisizione.  
