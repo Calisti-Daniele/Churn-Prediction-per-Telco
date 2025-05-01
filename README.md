@@ -23,7 +23,7 @@
 ## 🚀 Quick Start
 1. `git clone https://github.com/tuo-repo/telco-churn.git`  
 2. `poetry install` (o `pip install -r requirements.txt`)  
-3. `streamlit run app/app.py` — carica un CSV di clienti, ottieni la probabilità di churn e le top-features 💡
+3. `streamlit run app.py` — carica un CSV di clienti, ottieni la probabilità di churn e le top-features 💡
 
 ## 📈 Deliverables
 - **Notebook pulito** (`notebooks/`) con EDA, feature engineering, modelli e metriche.  
